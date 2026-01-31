@@ -1,4 +1,4 @@
-# 🏘️ Housing Market Visual Analytics
+# 🏘️ House Prices Advanced Regression Techniques
 
 > Publication-quality visualizations exploring residential real estate patterns and price dynamics
 
