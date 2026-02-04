@@ -8,6 +8,9 @@ This project analyzes 1,460 residential properties to answer: **"What makes hous
 
 I explored the relationship between house prices and various features like size, quality, location, and age using Python data analysis tools.
 
+## Dashboard
+![Housing Dashboard](images/dashboard.jpg)
+
 ## Key Findings
 
 **Top 5 Factors That Affect Price:**
