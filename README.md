@@ -1,14 +1,14 @@
-# 🏠 Housing Price Analysis
+# Housing Price Analysis
 
 An exploratory data analysis project investigating what factors drive residential property prices using the Kaggle House Prices dataset.
 
-## 📋 About This Project
+## About This Project
 
 This project analyzes 1,460 residential properties to answer: **"What makes houses expensive?"**
 
 I explored the relationship between house prices and various features like size, quality, location, and age using Python data analysis tools.
 
-## 🔍 Key Findings
+## Key Findings
 
 **Top 5 Factors That Affect Price:**
 1. Overall Quality (correlation: 0.79)
@@ -23,7 +23,7 @@ I explored the relationship between house prices and various features like size,
 - Homes built after 2000 cost almost double those from the 1900s
 - Price distribution is right-skewed with most houses around $150K-$180K
 
-## 📊 Dataset
+## Dataset
 
 **Source**: [Kaggle House Prices Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
@@ -33,7 +33,7 @@ I explored the relationship between house prices and various features like size,
 - 81 features (size, quality, location, age, etc.)
 - Target: SalePrice (in USD)
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python** - Programming language
 - **Pandas** - Data manipulation
@@ -41,7 +41,7 @@ I explored the relationship between house prices and various features like size,
 - **NumPy** - Numerical computing
 - **Kaggle Notebooks** - Development environment
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 housing-price-analysis/
@@ -60,36 +60,8 @@ housing-price-analysis/
 
 **Note**: The `data` folder is **NOT included** in this repository due to licensing.
 
-## 📈 Analysis Steps
 
-1. **Data Exploration** - Loaded and examined the dataset
-2. **Price Distribution** - Analyzed price patterns and outliers
-3. **Feature Relationships** - Studied correlations with price
-4. **Location Analysis** - Compared neighborhood effects
-5. **Visualization** - Created charts and dashboard
-
-## 💻 How to Run
-
-This project was created using **Kaggle Notebooks**.
-
-**To view/run the notebook:**
-1. Visit the [Kaggle House Prices Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-2. Download `train.csv` from the Data tab
-3. Open the notebook in Kaggle or Jupyter
-4. Update the file path to your dataset location
-5. Run the cells sequentially
-
-
-## 📊 Visualizations
-
-The project includes:
-- Price distribution histogram
-- Scatter plots showing relationships
-- Neighborhood comparison bar charts
-- Correlation heatmap
-- Summary dashboard combining key insights
-
-## 💡 What I Learned
+## What I Learned
 
 - **Quality matters most** - Overall quality is the strongest price predictor
 - **Location creates huge differences** - Same house can be 3x more expensive in different neighborhoods
@@ -97,7 +69,7 @@ The project includes:
 - **Newer homes cost more** - Modern construction commands premium prices
 - **More bedrooms ≠ higher price** - Quality and location matter more than bedroom count
 
-## 🔮 Next Steps
+## Next Steps
 
 - Build a machine learning model to predict house prices
 - Try different regression algorithms
