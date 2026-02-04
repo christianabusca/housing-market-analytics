@@ -51,11 +51,7 @@ housing-price-analysis/
 ├── notebooks/
 │   └── housing_analysis.ipynb       # Main analysis notebook
 ├── images/
-│   ├── dashboard.jpg                # Summary visualization
-│   ├── price_distribution.jpg       # Price histogram
-│   ├── correlation_heatmap.jpg      # Correlation matrix
-│   ├── pairplot.jpg                 # Multivariate analysis
-│   └── neighborhood_comparison.jpg  # Location analysis
+│   └── images.jpg                   # Plot Images in jpeg
 ├── reports/
 │   └── housing_price_analysis_report.md  # Written findings
 └── README.md                        # This file
